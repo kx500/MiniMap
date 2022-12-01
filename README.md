@@ -33,3 +33,8 @@ Ultra high performance optimization with almost no efficiency impact
 
 Small map shape (round or square) can be set
 
+
+中文说明：
+https://blog.csdn.net/qq_39447679/article/details/125865075
+
+
