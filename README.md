@@ -4,11 +4,13 @@ https://www.unrealengine.com/marketplace/zh-CN/product/6895988c85964551a4a7dc8a1
 2、Use plugins
 
 Initialize the map plugin
+![image](https://raw.githubusercontent.com/kx500/MiniMap/main/QQ%E6%88%AA%E5%9B%BE20221201133247.jpg)
 
-Add Marker and bind the click event
+Add Marker
+![image](https://raw.githubusercontent.com/kx500/MiniMap/main/QQ截图20221201133323.jpg)
 
-Get the full map
-
+bind the click event
+![image](https://raw.githubusercontent.com/kx500/MiniMap/main/QQ截图20221201133341.jpg)
 
 Features:
 
