@@ -22,9 +22,14 @@ bind the click event
 ![image](https://raw.githubusercontent.com/kx500/MiniMap/main/QQ%E6%88%AA%E5%9B%BE20221201133341.jpg)
 
 
+
 Features:
 
 Support pure blueprint and C++ calls
+
 Freely add markers
+
 Ultra high performance optimization with almost no efficiency impact
+
 Small map shape (round or square) can be set
+
