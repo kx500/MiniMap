@@ -7,7 +7,7 @@ Initialize the map plugin
 ![image](https://raw.githubusercontent.com/kx500/MiniMap/main/QQ%E6%88%AA%E5%9B%BE20221201133247.jpg)
 
 Add Marker
-![image](https://raw.githubusercontent.com/kx500/MiniMap/main/QQ截图20221201133323.jpg)
+![image](https://raw.githubusercontent.com/kx500/MiniMap/main/QQ%E6%88%AA%E5%9B%BE20221201133323.jpg)
 
 bind the click event
 ![image](https://raw.githubusercontent.com/kx500/MiniMap/main/QQ%E6%88%AA%E5%9B%BE20221201133341.jpg)
